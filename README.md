@@ -60,7 +60,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>4.) Verify Ticket Permissions</h3>
 
 - Log back in as **Help Desk Agent (john)**.
-- Attempt to view or modify the ticket. Verify whether the changes are accessibleoe editable. 
+- Attempt to view or modify the ticket. Verify whether the changes are accessible or editable. 
 
 <h3>5.) Work the Ticket to Completion</h3>
 
