@@ -70,19 +70,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>6.) Create Another Ticket as End-Users</h3>
 
 - **Scenario 2:** Create a ticket as an end-user with the following details:
-   - **Subject:** "Accounting department needs Adobe upgrade, broken"
-     - **Details:** Describe the issue briefly (e.g, "The Adobe software used by the accounting department is broken and
-      needs an upgrade.")
+   - **Subject:** "Password Reset"
+     - **Details:** Describe the issue briefly (e.g, "A user is unable to log into access their account, and the user needs their password reset.")
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2045.PNG?raw=true)
 
 
 <h3>7.) Observe Ticket Properties as Help Desk Agent</h3>
 -Observe the ticket's properties:
-- **Priority:** Default value.
-- **Department:** Default department.
-- **SLA:** Default SLA.
-- **Assigned To:** Not yet assigned.
+ - **Priority:** Default value.
+ - **Department:** Default department.
+ - **SLA:** Default SLA.
+ - **Assigned To:** Not yet assigned.
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2046.PNG?raw=true)
 
