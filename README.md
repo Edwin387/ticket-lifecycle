@@ -30,9 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -  **Subject:** "Entire mobile/online banking system is down"
 -  **Deatils:** Describe the issue briefly (e.g., "The entire online banking system is down, preventing users from accessing their accounts.")
   
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2049.PNG?raw=true)
+
 
 <h3>2.) Observe Ticket Properties as Help Desk Agent</h3>
 
@@ -43,9 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **SLA:** Default SLA.
 - **Assigned To:** Not yet assigned
 
-<p>
-
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2050.PNG?raw=true)
 
 <h3>3.) Set Ticket Properties</h3>
 
@@ -53,9 +50,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -  **SLA:** Sev-A (1 hour, 24/7).
 -  **Assigned To:** Online Banking Department.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2051.PNG?raw=true)
 
 <h3>4.) Verify Ticket Permissions</h3>
 
@@ -68,9 +63,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Take ownership of the ticket, work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
-<p>
-
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2052.PNG?raw=true)
 
 ---
 
@@ -81,9 +74,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
      - **Details:** Describe the issue briefly (e.g, "The Adobe software used by the accounting department is broken and
       needs an upgrade.")
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2045.PNG?raw=true)
+
 
 <h3>7.) Observe Ticket Properties as Help Desk Agent</h3>
 -Observe the ticket's properties:
@@ -92,9 +84,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **SLA:** Default SLA.
 - **Assigned To:** Not yet assigned.
 
-<p>
-
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2046.PNG?raw=true)
 
 
 <h3>8.) Set Ticket Properties</h3>
@@ -103,9 +93,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -  **SLA:** Sev-B (4 hours, 24/7).
 -  **Department:** Support.
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2047.PNG?raw=true)
 
 <h3>9.) Work the Ticket to Completion</h3>
 
@@ -113,9 +101,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Take ownership of the ticket, work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2048.PNG?raw=true)
 
 ---
 
@@ -125,9 +111,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **Subject:** "CFO's laptop will no longer turn on"
 - **Details:** Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2053.PNG?raw=true)
   
 <h3>11.) Observe Ticket Properties as Help Desk Agent</h3>
 
@@ -138,9 +122,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **SLA:** Default SLA.
 - **Assigned To:** Not yet assigned.
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2054.PNG?raw=true)
 
 <h3>12.) Set Ticket Properties</h3>
 
@@ -148,9 +130,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **SLA:** Sev-B (4 hours,24/7).
 - **Department:** Support.
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2056.PNG?raw=true)
 
 <h3>13.) Work the Ticket to Completion</h3>
 
