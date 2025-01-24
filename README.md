@@ -127,7 +127,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>12.) Set Ticket Properties</h3>
 
 - Update the ticket with the following properties:
-- **SLA:** Sev-B (4 hours,24/7).
+- **SLA:** Sev-B (4 hours, 24/7).
 - **Department:** Support.
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2064.PNG?raw=true)
