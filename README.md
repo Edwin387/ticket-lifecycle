@@ -71,7 +71,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - **Scenario 2:** Create a ticket as an end-user with the following details:
    - **Subject:** "Password Reset"
-     - **Details:** Describe the issue briefly (e.g, "A user is unable to log into their account, and the user needs their password reset.")
+     - **Details:** Describe the issue briefly (e.g, "A user is unable to log into their account, the user needs their password reset.")
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2045.PNG?raw=true)
 
