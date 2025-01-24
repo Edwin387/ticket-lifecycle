@@ -107,8 +107,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>10.) Create a Final Ticket as End-Users</h3>
 
 - **Scenario 3:** Create a ticket as an end-user with the following details:
-- **Subject:** "CFO's laptop will no longer turn on"
-- **Details:** Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
+- **Subject:** "Applications Malfunctioning"
+- **Details:** Describe the issue briefly (e.g., "Employees report applications malfunctioning on their computers, it needs urgent attention.")
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2053.PNG?raw=true)
   
@@ -116,10 +116,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Log in as **Help Desk Agent (john)**
 - Observe the ticket's properties:
-- **Priority:** Default value.
-- **Department:** Default department.
-- **SLA:** Default SLA.
-- **Assigned To:** Not yet assigned.
+  - **Priority:** Default value.
+  - **Department:** Default department.
+  - **SLA:** Default SLA.
+  - **Assigned To:** Not yet assigned.
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2054.PNG?raw=true)
 
