@@ -111,7 +111,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **Subject:** "Applications Malfunctioning"
 - **Details:** Describe the issue briefly (e.g., "Employees report applications malfunctioning on their computers, it needs urgent attention.")
 
-![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2053.PNG?raw=true)
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2062.PNG?raw=true)
   
 <h3>11.) Observe Ticket Properties as Help Desk Agent</h3>
 
@@ -122,7 +122,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **SLA:** Default SLA.
   - **Assigned To:** Not yet assigned.
 
-![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2054.PNG?raw=true)
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2063.PNG?raw=true)
 
 <h3>12.) Set Ticket Properties</h3>
 
@@ -130,7 +130,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **SLA:** Sev-B (4 hours,24/7).
 - **Department:** Support.
 
-![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2056.PNG?raw=true)
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2064.PNG?raw=true)
 
 <h3>13.) Work the Ticket to Completion</h3>
 
