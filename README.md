@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>1.) Create Tickets as End-Users</h3>
 
 - **Scenario 1:** Create a ticket as an end-user with the following details:
--  **Subject:** "Entire mobile/online banking system is down"
+-  **Subject:** "Online banking system is down"
 -  **Deatils:** Describe the issue briefly (e.g., "The entire online banking system is down, preventing users from accessing their accounts.")
   
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2049.PNG?raw=true)
@@ -48,9 +48,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Update the ticket with the following properties:
 -  **SLA:** Sev-A (1 hour, 24/7).
--  **Assigned To:** Online Banking Department.
+-  **Assigned To:** John Doe/Online Banking Department.
 
-![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2057.PNG?raw=true)
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2061.PNG?raw=true)
 
 <h3>4.) Verify Ticket Permissions</h3>
 
