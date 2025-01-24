@@ -37,10 +37,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Log in as **Help Desk Agent (john)**.
 - Observe the ticket's properties:
--  **Priority:** Default value.
--  **Department:** Default department.
--  **SLA:** Default SLA.
--  **Assigned To:** Not yet assigned
+  - **Priority:** Default value.
+  - **Department:** Default department.
+  - **SLA:** Default SLA.
+  - **Assigned To:** Not yet assigned
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2057.PNG?raw=true)
 
