@@ -42,7 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - **SLA:** Default SLA.
 - **Assigned To:** Not yet assigned
 
-![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2050.PNG?raw=true)
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2057.PNG?raw=true)
 
 <h3>3.) Set Ticket Properties</h3>
 
@@ -50,7 +50,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -  **SLA:** Sev-A (1 hour, 24/7).
 -  **Assigned To:** Online Banking Department.
 
-![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2051.PNG?raw=true)
+![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2057.PNG?raw=true)
 
 <h3>4.) Verify Ticket Permissions</h3>
 
