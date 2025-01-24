@@ -76,7 +76,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/shot%2045.PNG?raw=true)
 
 <h3>7.) Observe Ticket Properties as Help Desk Agent</h3>
--Observe the ticket's properties:
+- Observe the ticket's properties:
  - **Priority:** Default value.
  - **Department:** Default department.
  - **SLA:** Default SLA.
