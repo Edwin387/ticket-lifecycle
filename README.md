@@ -48,7 +48,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Update the ticket with the following properties:
 -  **SLA:** Sev-A (1 hour, 24/7).
--  **Assigned To:** John Doe/Online Banking Department.
+-  **Assigned To:** John Doe/Online Banking
 
 ![image](https://github.com/Edwin387/ticket-lifecycle/blob/main/Shot%2061.PNG?raw=true)
 
